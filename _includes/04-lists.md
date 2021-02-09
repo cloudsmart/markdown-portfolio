@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Beach
+- Boat
+- Sailing
+- Drinks
+  - Beer
+  - Wine
+  - Scotch
