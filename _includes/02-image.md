@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sandy Beach](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fbeach.html&psig=AOvVaw3FJdgBTIvoGeOZ3U1XgZ9e&ust=1612971732450000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCNiIuS3e4CFQAAAAAdAAAAABAD)
