@@ -1,7 +1,7 @@
-- Beach
-- Boat
-- Sailing
-- Drinks
-  - Beer
-  - Wine
-  - Scotch
+* Beach
+* Boat
+* Sailing
+* Drinks
+  * Beer
+  * Wine
+  * Scotch
